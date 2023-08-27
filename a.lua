@@ -1,4 +1,4 @@
-local startUpArgs = getgenv().startUpArgs or { 'universal', 'public' }
+local startUpArgs = "public"
 -- [[
     --obleus remake
     --ignore the shitty code
