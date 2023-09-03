@@ -8,10 +8,6 @@ local textService = textService
 local inputService = inputService
 local tweenService = tweenService
 
-if getgenv().library then
-	getgenv().library:Unload()
-end
-
 -- [UI Library Settings]
 local library = {
 	tabs = {},
